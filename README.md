@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 | Syntax | Description |
 | ----------- | ----------- |
 | Header | Title |
@@ -19,8 +20,9 @@ term
 	
 
 
+=======
+hi
+>>>>>>> origin/main
 
-<!---
-kadekbagus/kadekbagus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+![monkey-developer](https://user-images.githubusercontent.com/9412349/153735417-81f14075-0b60-49e1-88eb-90019dbe03d2.gif)
