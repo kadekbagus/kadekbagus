@@ -9,7 +9,9 @@
 <a href="https://github.com/kadekbagus">
   <img align="left" alt="Kadek's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+
 <br />
+
 ### My name is kadek bagus
 - Currently working fulltime as backend developer on a small startup company called gotomalls.com
 - Mostly i'm working on the backend side using php/laravel, but i can also work on the frontend side, specially using vuejs.
