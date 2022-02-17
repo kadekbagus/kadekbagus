@@ -1,6 +1,7 @@
 
 ## Hello and welcome to my github profile
-<br />
+
+
 ### My name is Kadek Bagus
 - Currently working fulltime as backend developer on a small startup company called gotomalls.com
 - Mostly i'm working on the backend side using php/laravel, but i can also work on the frontend side, specially using vuejs.
@@ -15,15 +16,16 @@
 <a href="https://www.linkedin.com/in/kadek-bagus-20341622b/">
   <img align="left" alt="Kadek's Linkedin" width="22px" src="https://user-images.githubusercontent.com/9412349/154457700-b87e552c-89c9-4dce-b538-1d84991ff909.jpeg" />
 </a>
+<a href="mailto:kadekdarma90@gmail.com">
+  <img align="left" alt="Kadek's Email" width="22px" src="https://user-images.githubusercontent.com/9412349/154454493-091af1a7-b394-4f23-9a5e-ae8c01f52e89.jpeg" />
+</a>
 <a href="https://github.com/kadekbagus">
   <img align="left" alt="Kadek's Github" width="22px" src="https://user-images.githubusercontent.com/9412349/154457998-eab8cc2d-043d-4993-b576-984b71dd898f.png" />
 </a>
 <a href="https://twitter.com/kadekbagus">
   <img align="left" alt="Kadek's Twitter" width="22px" src="https://user-images.githubusercontent.com/9412349/154458260-d6fbd33f-54b6-4466-86aa-0dd07aab831d.png" />
 </a>
-<a href="mailto:kadekdarma90@gmail.com">
-  <img align="left" alt="Kadek's Email" width="22px" src="https://user-images.githubusercontent.com/9412349/154454493-091af1a7-b394-4f23-9a5e-ae8c01f52e89.jpeg" />
-</a>
+
 
 ### Happy Coding
 ![monkey-developer](https://user-images.githubusercontent.com/9412349/153735417-81f14075-0b60-49e1-88eb-90019dbe03d2.gif)
