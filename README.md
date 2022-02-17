@@ -17,7 +17,9 @@
 - Mostly i'm working on the backend side using php/laravel, but i can also work on the frontend side, specially using vuejs.
 - I'm looking for new opportunities. I love to learn and contribute in any and every possible way.
 
-###Technology Stack
+<br />
+
+### Technology Stack
 <img src="https://img.shields.io/badge/-PHP-blueviolet?style=flat&logo=php&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Laravel-pink?style=flat&logo=laravel&logoColor=00000">
 <img src="https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql&logoColor=ffffff">
@@ -36,8 +38,9 @@
 
 ![monkey-developer](https://user-images.githubusercontent.com/9412349/153735417-81f14075-0b60-49e1-88eb-90019dbe03d2.gif)
 
+<br />
 
-###Hire me !!
+### Hire me !!
 [<img src="https://user-images.githubusercontent.com/9412349/154454493-091af1a7-b394-4f23-9a5e-ae8c01f52e89.jpeg" alt="gmail logo" width="24">](kadekdarma90@gmail.com)
 
 
