@@ -26,12 +26,6 @@
   <img align="left" alt="Kadek's Twitter" width="22px" src="https://user-images.githubusercontent.com/9412349/154458260-d6fbd33f-54b6-4466-86aa-0dd07aab831d.png" />
 </a>
 
-
-### Happy Coding
-![monkey-developer](https://user-images.githubusercontent.com/9412349/153735417-81f14075-0b60-49e1-88eb-90019dbe03d2.gif)
-
-
-
 <!---
 kadekbagus/kadekbagus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
