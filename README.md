@@ -25,7 +25,9 @@
 ![monkey-developer](https://user-images.githubusercontent.com/9412349/153735417-81f14075-0b60-49e1-88eb-90019dbe03d2.gif)
 
 ### Hire me !!
-[<img src="https://user-images.githubusercontent.com/9412349/154454493-091af1a7-b394-4f23-9a5e-ae8c01f52e89.jpeg" alt="gmail logo" width="24">](kadekdarma90@gmail.com)
+<a href="mailto:kadekdarma90@gmail.com">
+  <img align="left" alt="Kadek's Email" width="22px" src="https://user-images.githubusercontent.com/9412349/154454493-091af1a7-b394-4f23-9a5e-ae8c01f52e89.jpeg" />
+</a>
 
 
 	
