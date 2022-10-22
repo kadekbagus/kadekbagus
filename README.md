@@ -3,7 +3,8 @@
 
 
 ### My name is Kadek Bagus
-- Currently working fulltime as backend developer on a small startup company called gotomalls.com
+- Former Backend Developer for startup company in bali
+- Currently work as self employed content creator
 - Mostly i'm working on the backend side using php/laravel, but i can also work on the frontend side, specially using vuejs.
 - I'm looking for new opportunities. I love to learn and contribute in any and every possible way.
 
